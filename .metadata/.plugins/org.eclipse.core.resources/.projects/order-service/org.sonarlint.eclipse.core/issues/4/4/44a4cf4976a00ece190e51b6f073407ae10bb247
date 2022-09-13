@@ -1,0 +1,32 @@
+
+X
+java:S1144"(Remove this unused private "get" method.(Ê–îÕûÿÿÿÿHHRMAJORZ
+CODE_SMELL
+T
+java:S1128")Remove this unused import 'java.net.URI'.(Ö¦¨°HJRMINORZ
+CODE_SMELL
+X
+java:S6212"/Declare this local variable with "var" instead.(— ’HCRINFOZ
+CODE_SMELL
+Y
+java:S6212"/Declare this local variable with "var" instead.(Ç­‚ûHIRINFOZ
+CODE_SMELL
+c	java:S106 "9Replace this use of System.out or System.err by a logger.(ÿ‘®’HBRMAJORZ
+CODE_SMELL
+X
+java:S6212"/Declare this local variable with "var" instead.(— ’HFRINFOZ
+CODE_SMELL
+f	java:S125"<This block of commented-out lines of code should be removed.(Ö‹éÎHGRMAJORZ
+CODE_SMELL
+Y
+java:S6212"/Declare this local variable with "var" instead.(±þûöHERINFOZ
+CODE_SMELL
+Z
+java:S3740"/Provide the parametrized type for this generic.(±þûöHLRMAJORZ
+CODE_SMELL
+h	java:S106"9Replace this use of System.out or System.err by a logger.(˜Š¿ÛüÿÿÿÿHARMAJORZ
+CODE_SMELL
+k	java:S125"<This block of commented-out lines of code should be removed.(‡É†»ÿÿÿÿÿHDRMAJORZ
+CODE_SMELL
+h	java:S106!"9Replace this use of System.out or System.err by a logger.(ûÊº¥øÿÿÿÿHKRMAJORZ
+CODE_SMELL

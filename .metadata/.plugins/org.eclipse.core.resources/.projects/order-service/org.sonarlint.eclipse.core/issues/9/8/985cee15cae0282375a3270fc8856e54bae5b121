@@ -1,0 +1,10 @@
+
+_
+java:S3740"/Provide the parametrized type for this generic.(¯ã§¹ýÿÿÿÿHORMAJORZ
+CODE_SMELL
+c
+java:S1611"3Remove the parentheses around the "error" parameter(ý£—ÔúÿÿÿÿHNRMINORZ
+CODE_SMELL
+´
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(æí§ÚøÿÿÿÿHMRCRITICALZ
+CODE_SMELL
